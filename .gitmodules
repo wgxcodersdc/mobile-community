@@ -1,0 +1,12 @@
+[submodule "weatherappfinal"]
+	path = weatherappfinal
+	url = https://github.com/chrispconnolly/weatherappfinal.git
+[submodule "MyWeatherApp"]
+	path = MyWeatherApp
+	url = https://github.com/iehur/MyWeatherApp.git
+[submodule "WeatherDetailApp"]
+	path = WeatherDetailApp
+	url = https://github.com/tbajis/WeatherDetailApp.git
+[submodule "WeatherApp"]
+	path = WeatherApp
+	url = https://github.com/tunjifw/WeatherApp.git
